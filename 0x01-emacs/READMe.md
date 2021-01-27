@@ -1,1 +1,0 @@
-The aim of this project is to have a skill in emacs command line using the terminal. 
