@@ -1,2 +1,2 @@
 #!/bin/bash
-julien@ubuntu:/tmp$ ls\n
+$ ./0-current_working_directory \n
